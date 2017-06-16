@@ -1,6 +1,7 @@
 msa-wetness-analyzer
 ================================================
 
+
 Quick Start
 -------------------------
 
@@ -15,12 +16,12 @@ cd msa-wetness-analyzer
 Build locally:
 
 ```bash
-./mvnw clean install
+mvn clean install
 ```
 
 Run Integration Tests:
 ```bash
-./mvnw verify
+mvn verify
 ```
 
 Run locally:
